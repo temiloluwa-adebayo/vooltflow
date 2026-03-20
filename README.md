@@ -38,7 +38,7 @@ A user types a product niche (e.g. `"Wireless Earbuds"`). VooltFlow simultaneous
 ![Dashboard](assets/Screenshot%202026-03-19%20223609.png)
 ![Leads Table](assets/Screenshot%202026-03-19%20225110.png)
 ![More View](assets/Screenshot%202026-03-19%20225139.png)
-![Leads Table](assets/Screenshot%202026-03-19%20225250.png))
+![Leads Table](assets/Screenshot%202026-03-19%20225250.png)
 
 ---
 
